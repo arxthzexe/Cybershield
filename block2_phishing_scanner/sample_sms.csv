@@ -1,0 +1,7 @@
+text,text_length,word_count,digit_count,has_url,has_otp_word,keyword_count,urgent_words,has_bank_word,label
+"Your UPI account is blocked. Click link to verify",52,9,0,1,0,3,1,1,1
+"OTP for transaction is 483920. Do not share",44,8,6,0,1,1,0,0,0
+"Urgent! Your bank account suspended. Verify now",48,7,0,0,0,3,1,1,1
+"Congratulations! You won a reward. Click link",46,8,0,1,0,2,0,0,1
+"Your Amazon order has been shipped",36,6,0,0,0,0,0,0,0
+"Hello, meeting at 5 PM today",28,6,1,0,0,0,0,0,0
